@@ -3,20 +3,20 @@ else
 endif
 
 if has("gui_running")
-	source $HOME\vimfiles\gui.vim
+	source $HOME/vimfiles/gui.vim
 else
 endif
 
+"set directory=.,$HOME						" РќРµ РІС‹Р·С‹РІР°С‚СЊ РѕС€РёР±РєСѓ E303
+
+
 set nocompatible
 set nobackup
-set showcmd				" Показывать вводимую команду
-set nowrap				" Не разрывать строки
-set backspace=eol,indent,start		" Настройка Backspace
+set showcmd							" РџРѕРєР°Р·С‹РІР°С‚СЊ РІРІРѕРґРёРјСѓСЋ РєРѕРјР°РЅРґСѓ
+set nowrap							" РќРµ СЂР°Р·СЂС‹РІР°С‚СЊ СЃС‚СЂРѕРєРё
+set backspace=eol,indent,start		" РќР°СЃС‚СЂРѕР№РєР° Backspace
 
-" Настройки поиска
-set incsearch
-set ignorecase
 
-source $HOME\vimfiles\localization.vim			" Локализация
-source $HOME\vimfiles\ide.vim				" Настройка IDE
+source $HOME/vimfiles/localization.vim			" Р›РѕРєР°Р»РёР·Р°С†РёСЏ
+source $HOME/vimfiles/ide.vim				" РќР°СЃС‚СЂРѕР№РєР° IDE
 

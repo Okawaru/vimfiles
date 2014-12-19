@@ -1,11 +1,11 @@
-set guioptions+=e 	" включаем none-gui табы
-" set guioptions-=r 	" отключаем правый scrollbar
-" set guioptions-=R 	" отключаем правый scrollbar при вертикальном разделении окна
-" set guioptions-=b 	" отключаем нижний scrollbar 
-" set guioptions-=l 	" отключаем левый scrollbar
-" set guioptions-=L 	" отключаем левый scrollbar при вертикальном разделении окна
-set guioptions-=T 	" отключаем панель инструментов
-set guioptions-=m 	" отключаем меню
+set guioptions+=e 	" РІРєР»СЋС‡Р°РµРј none-gui С‚Р°Р±С‹
+" set guioptions-=r 	" РѕС‚РєР»СЋС‡Р°РµРј РїСЂР°РІС‹Р№ scrollbar
+" set guioptions-=R 	" РѕС‚РєР»СЋС‡Р°РµРј РїСЂР°РІС‹Р№ scrollbar РїСЂРё РІРµСЂС‚РёРєР°Р»СЊРЅРѕРј СЂР°Р·РґРµР»РµРЅРёРё РѕРєРЅР°
+" set guioptions-=b 	" РѕС‚РєР»СЋС‡Р°РµРј РЅРёР¶РЅРёР№ scrollbar 
+" set guioptions-=l 	" РѕС‚РєР»СЋС‡Р°РµРј Р»РµРІС‹Р№ scrollbar
+" set guioptions-=L 	" РѕС‚РєР»СЋС‡Р°РµРј Р»РµРІС‹Р№ scrollbar РїСЂРё РІРµСЂС‚РёРєР°Р»СЊРЅРѕРј СЂР°Р·РґРµР»РµРЅРёРё РѕРєРЅР°
+set guioptions-=T 	" РѕС‚РєР»СЋС‡Р°РµРј РїР°РЅРµР»СЊ РёРЅСЃС‚СЂСѓРјРµРЅС‚РѕРІ
+set guioptions-=m 	" РѕС‚РєР»СЋС‡Р°РµРј РјРµРЅСЋ
 
 colorscheme koehler
 

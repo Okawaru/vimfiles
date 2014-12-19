@@ -1,10 +1,11 @@
 syntax on
 filetype plugin on
 
-" отступы
-set autoindent			" автоотступ
-set smartindent			" умный отступ
+" РѕС‚СЃС‚СѓРїС‹
+set autoindent			" Р°РІС‚РѕРѕС‚СЃС‚СѓРї
+set smartindent			" СѓРјРЅС‹Р№ РѕС‚СЃС‚СѓРї
 
-set tabstop=4			" отображать TAB 4 пробелами
+set tabstop=4			" РѕС‚РѕР±СЂР°Р¶Р°С‚СЊ TAB 4 РїСЂРѕР±РµР»Р°РјРё
 
+set ruler
 
